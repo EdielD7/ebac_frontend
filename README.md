@@ -3,3 +3,6 @@ Repositório para centralizar os exercícios de conclusão de módulos realizado
 
 ## Módulo 19 - Boas práticas de CSS
 Neste módulo, conheci as metodologias SMACSS e BEM para criação de folhas de estilo reutilizáveis.
+
+## Módulo 24 - Orientação a Objetos
+Conheci algunss conceitos da Programação Orientada a Objetos, como herança, encapsulamento e polimorfismo.
