@@ -1,0 +1,16 @@
+{
+  "name": "ebac_frontend",
+  "version": "1.0.0",
+  "description": "Repositório para centralizar os exercícios de conclusão de módulos realizados durante o curso Engenheiro Front-end, da EBAC.",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.6.0"
+  }
+}
