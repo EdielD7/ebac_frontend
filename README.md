@@ -8,3 +8,5 @@ Neste exercício eu crio um projeto de testes utilizando o Cypress para:
     - inclusão;
     - alteração;
     - remoção de um contato.
+
+O arquivo de teste pode ser encontrado em `cypress/e2e/agenda-contato/agenda.cy.js`, que pode ser acessado [nest link](./cypress/e2e/agenda-contato/agenda.cy.js)
