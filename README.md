@@ -1,5 +1,10 @@
 # ebac_frontend
 Repositório para centralizar os exercícios de conclusão de módulos realizados durante o curso Engenheiro Front-end, da EBAC.
 
-## Módulo 19 - Boas práticas de CSS
-Neste módulo, conheci as metodologias SMACSS e BEM para criação de folhas de estilo reutilizáveis.
+## Módulo 34 - Testes E2E com Cypress
+Neste exercício eu crio um projeto de testes utilizando o Cypress para:
+- Testar as funcionalizaddes da [aplicação disponibilizada](https://agenda-contatos-react.vercel.app/);
+- testar as funcionalidades:
+    - inclusão;
+    - alteração;
+    - remoção de um contato.
